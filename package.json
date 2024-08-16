@@ -33,7 +33,6 @@
     "typescript": "^5.5.4"
   },
   "exports": {
-    "./core/**.js": "./core/**.js",
-    "./core/**.ts": "./core/**.ts"
+    "./core/*": "./core/*"
   }
 }
