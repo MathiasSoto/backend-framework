@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "core/index.js",
-  "scripts": {
-    "postinstall": "tsc --outDir ./build"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
